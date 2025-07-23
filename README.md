@@ -1,6 +1,6 @@
 # Machine-learning-models
 
-# Twitter Sentiment Analysis using PyTorch
+# Twitter Sentiment Analysis 
 
 This project focuses on analyzing sentiments in tweets using a machine learning pipeline built with PyTorch and NLP preprocessing. It classifies tweets into **Positive**, **Negative**, or **Neutral** sentiments.
 
